@@ -1,4 +1,4 @@
-👋 ## Bem-Vindo! 👋
+## Bem-Vindo! 👋
 
 <h3 align="center">LINGUAGENS</h3>
 
