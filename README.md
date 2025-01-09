@@ -52,8 +52,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">CONTATO</h3>
 
 ###
