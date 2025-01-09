@@ -1,4 +1,4 @@
-## Bem-Vindo! 👋
+👋 ## Bem-Vindo! 👋
 
 <h3 align="center">LINGUAGENS</h3>
 
@@ -49,23 +49,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
 </div>
-
-###
-
-<h3 align="center">CONTATO</h3>
-
-###
-
-<div align="center">
-  <a href="andrecruz662@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/avnc2005" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="avnccin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
