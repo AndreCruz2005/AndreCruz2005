@@ -1,4 +1,6 @@
-<h1 align="center">OLÁ, EU SOU ANDRÉ VINÍCIUS</h1>
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=45&duration=2000&pause=500&color=C20C47&center=true&multiline=true&width=700&height=59&lines=OL%C3%81+EU+SOU+ANDR%C3%89+VIN%C3%8DCIUS" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
 <h3>⭐ SOBRE MIM ⭐</h3>
