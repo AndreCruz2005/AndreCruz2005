@@ -1,4 +1,4 @@
-<h1 align="center">👋 OLÁ, EU SOU ANDRÉ VINÍCIUS! 👋</h1>
+<h1 align="center">👋 OLÁ, EU SOU ANDRÉ VINÍCIUS 👋</h1>
 
 <div align="center">
 <h3> SOBRE MIM </h3>
