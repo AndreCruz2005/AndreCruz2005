@@ -1,7 +1,7 @@
-<h1 align="center">👋 OLÁ, EU SOU ANDRÉ VINÍCIUS 👋</h1>
+<h1 align="center">OLÁ, EU SOU ANDRÉ VINÍCIUS</h1>
 
 <div align="center">
-<h3> SOBRE MIM </h3>
+<h3>⭐ SOBRE MIM ⭐</h3>
   <b>💻 CURSANDO CIÊNCIA DA COMPUTAÇÃO NO CENTRO DE INFORMÁTICA DA UFPE 💻</b><br>
   <b>🎮 ENTUSIASTA DO DESENVOLVIMENTO DE JOGOS 🎮</b><br>
   <b>🔍 SEMPRE BUSCO APRENDER NOVAS COISAS 🔍</b><br>
