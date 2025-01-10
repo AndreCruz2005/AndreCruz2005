@@ -1,8 +1,15 @@
-## Bem-Vindo! 👋
+<h1 align="center">👋 OLÁ, EU SOU ANDRÉ VINÍCIUS! 👋</h1>
+
+<div align="center">
+<h3> SOBRE MIM </h3>
+  <b>💻 CURSANDO CIÊNCIA DA COMPUTAÇÃO NO CENTRO DE INFORMÁTICA DA UFPE 💻</b><br>
+  <b>🎮 ENTUSIASTA DO DESENVOLVIMENTO DE JOGOS 🎮</b><br>
+  <b>🔍 SEMPRE BUSCO APRENDER NOVAS COISAS 🔍</b><br>
+  <b>😃 GOSTO DE PROGRAMAR POR DIVERSÃO 😃<br>
+</div>
+<h2></h2>
 
 <h3 align="center">LINGUAGENS</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -20,11 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
-###
-
 <h3 align="center">FERRAMENTAS</h3>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
