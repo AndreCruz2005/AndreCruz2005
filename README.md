@@ -58,6 +58,6 @@
 <h3 align="center">ESTATÍSTICAS</h3>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AndreCruz2005)](https://git.io/streak-stats)
+[GitHub Streak](https://streak-stats.demolab.com/?user=AndreCruz2005)](https://git.io/streak-stats)
 </div>
 
