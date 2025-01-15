@@ -54,3 +54,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
 </div>
+
+<h3 align="center">ESTATÍSTICAS</h3>
+
+<div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreCruz2005" alt="GitHub Streak" /></a>
+</div>
+
