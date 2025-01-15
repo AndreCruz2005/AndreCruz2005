@@ -57,7 +57,7 @@
 
 <h3 align="center">ESTATÍSTICAS</h3>
 
-<div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AndreCruz2005" alt="GitHub Streak" /></a>
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndreCruz2005)](https://git.io/streak-stats)
 </div>
 
